@@ -43,5 +43,4 @@ Este script em Python permite gerar _embeddings_ (representações vetoriais) a 
 ```bash
 $ python gerador_embeddings.py
 Digite o texto para gerar o embedding: Machine learning é incrível!
-{'embedding': [...], 'model': 'nomic-embed-text', 'created_at': '...', ...}
 ```
